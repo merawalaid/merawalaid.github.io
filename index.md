@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+After 3 decades of online ‘ghostmode’, it finally made sense to set up a place where I hang my hat in the online world. (Here’s why link).
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+ On this site, I intend to share reflections, experiences, and questions centered on the core tenets of leadership, professionalism, the ever-evolving landscape of technology, and the unfolding narrative of our digital future.
