@@ -1,3 +1,9 @@
+---
+   layout: post
+   title: "Why yet another blog now"
+   # Add your tags here
+   tags: ContentOwnership ReclaimYourStory ThoughtLeadership
+---
 # Why yet another blog now?
 
 
