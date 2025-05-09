@@ -11,7 +11,7 @@ I believe that many of us face a growing challenge : how to carve out the space 
 
 For leaders and technology professionals of today, we have an open challenge, to reclaim ownership of our own content and, crucially, our own story.
 
-When I compare where we stand today in terms of personal content ownership to how we operated in the age ‘home-pages on geocities’ in the late 1990s, I see a worrying difference. 
+When I compare where we stand today in terms of personal content ownership to how we operated in the age of ‘home-pages on geocities’ in the late 1990s, I see a worrying difference. 
 The once open frontier of online discourse is increasingly governed by algorithmic gatekeepers and the inherent limitations of social media platforms. For the aspirational independent thought leaders and the quirky technology professionals there are risks of being drowned out in this noise without a dedicated space to cultivate and control their message.
 
 This isn't  about vanity or self-promotion; it's about strategic necessity. In a future dominated by influencers and curated content, the ability to articulate your expertise, share hard-earned insights, and shape perceptions hinges on owning your digital presence. Beyond the constraints and potential biases of third-party platforms lies the need of unfettered creative expression and the establishment of your personal "source of truth.” for your own narrative.
